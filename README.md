@@ -142,8 +142,6 @@ After completing this project, you will understand:
 
 # 👨‍🎓 Author Notes (For Class Presentation)
 
-You can explain this project as:
-
 > "This project demonstrates parallel computing using Python threading where multiple YouTube videos are downloaded simultaneously instead of sequentially, improving efficiency and showcasing concurrency concepts."
 
 ---
